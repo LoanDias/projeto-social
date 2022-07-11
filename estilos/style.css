@@ -12,11 +12,6 @@ body {
     background-attachment: fixed;
 }
 
-html, body {
-    height: 100vh;
-    width: 100vh;
-    background-color: black;
-}
 
 main {
     position: relative;
